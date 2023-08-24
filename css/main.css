@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Jolilbee;
+    src: url(../fonts/Nunito/Nunito-VariableFont_wght.ttf);
+  }
+
+.logo{
+    max-width: 150px;
+}
+
+.jolilfont {
+    font-family: Jolilbee;
+}
+
+.menu-img{
+    max-height: 200px;
+    max-width: 100%;
+}
+
+#banner{
+    height: 350px;
+    background-image: url("../img/place/place.jpg");
+    background-position: 100% 100%;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+html body {
+    background: #fff url("../img/body-bg.png") repeat;
+    background-size: auto;
+}
